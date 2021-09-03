@@ -6,7 +6,6 @@ def compare(word1,word2):
         else:
             result=result+word1[i]
     return result
-
 word1=input()
 word2=input()
 res1=compare(word1,word2)
